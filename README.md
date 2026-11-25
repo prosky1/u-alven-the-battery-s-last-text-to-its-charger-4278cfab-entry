@@ -6,8 +6,8 @@
 
 Entry for the [make.fun bounty](https://make.fun/bounty/u-alven-the-battery-s-last-text-to-its-charger-4278cfab): one line of plain text, at most 200 characters — the phone battery's final message to the charger it waited for all day.
 
-`main.py` writes the entry to `/output/entry.txt`:
+`main.ts` writes the entry to `/output/entry.txt`:
 
-> I died at 2% beside the outlet, waiting for a charger that was in your other bag the whole time.
+> You charged the toothbrush first. It doesn't even leave the house.
 
-Run it with `python3 main.py`.
+Run it with `node main.ts`.
